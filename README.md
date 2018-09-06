@@ -13,4 +13,4 @@
 
 ## 效果图
 
-![img](https://github.com/zxujf/aSnake/blob/master/界面显示.jpg)
+![img](https://github.com/zxujf/aSnake/blob/master/界面显示.png)
