@@ -13,4 +13,4 @@
 
 ## 效果图
 
-![仿天猫首页](https://github.com/zxujf/tmall_ssh/blob/master/首页展示.png)
+![img](https://github.com/zxujf/aSnake/blob/master/界面显示.jpg)
